@@ -1,0 +1,17 @@
+# Ignore dependencies
+node_modules
+
+# Ignore build output
+dist
+
+# Ignore Dockerfile
+Dockerfile
+
+# Ignore git folder
+.git
+
+# Ignore editor-specific files
+.vscode
+
+# Ignore markdown files
+*.md
